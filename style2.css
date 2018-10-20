@@ -1,0 +1,28 @@
+html {
+	background-image: url(back2.jpg);
+}
+
+body {
+	font-family: "Roboto", helvetica, arial, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-rendering: optimizeLegibility;
+}
+
+.table-fill a {
+	color: white;
+	text-decoration-line: none;
+}
+
+#right2 {
+	border: none;
+}
+
+#left3 {
+	border: none;
+}
+
+#foot {
+	border: none;
+	color: antiquewhite;
+}
