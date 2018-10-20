@@ -1,2 +1,2 @@
 # Database-management-website
-Database management website with additional js animation effects
+Database management website with additional js animation effects.
